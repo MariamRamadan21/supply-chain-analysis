@@ -100,3 +100,12 @@ The dashboard was designed to help answer key supply chain questions, including:
 ![Logistics Performance](images/Logistics%20Performance.png)
 
 
+# 🛠️ Tools & Technologies
+
+* **Power BI** — Dashboard development, data modeling, and interactive visualization
+* **Power Query** — Data cleaning, transformation, and preparation
+* **DAX** — KPI calculations, time-based analysis, and business measures
+* **Data Modeling** — Fact & Dimension tables, relationships, and Date Table
+
+
+
