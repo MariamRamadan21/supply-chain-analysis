@@ -93,9 +93,10 @@ The dashboard was designed to help answer key supply chain questions, including:
 
 ## Supplier Performance
 
-![Supplier Performance](images/supplier%performance.png)
+![Supplier Performance](images/Supplier%20Performance.png)
 
 ## Logistics Performance
 
-![Logistics Performance](images/logistics%performance.png)
+![Logistics Performance](images/Logistics%20Performance.png)
+
 
