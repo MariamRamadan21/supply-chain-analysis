@@ -108,4 +108,20 @@ The dashboard was designed to help answer key supply chain questions, including:
 * **Data Modeling** — Fact & Dimension tables, relationships, and Date Table
 
 
+# 📁 Project Structure
+
+```text
+Supply-Chain-Analysis/
+│
+├── images/
+│   ├── home.png
+│   ├── overview.png
+│   ├── Supplier Performance.png
+│   └── Logistics Performance.png
+│
+├── Supply Chain Analysis.pbix
+└── README.md
+```
+
+
 
