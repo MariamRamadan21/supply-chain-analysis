@@ -80,3 +80,22 @@ The dashboard was designed to help answer key supply chain questions, including:
 * How does logistics performance vary across carriers, transportation modes, and regions?
 * Where are potential delivery and SLA gaps occurring?
 
+
+# 📷 Dashboard Preview
+
+## Home
+
+![Home](images/home.png)
+
+## Overview
+
+![Overview](images/overview.png)
+
+## Supplier Performance
+
+![Supplier Performance](images/supplier-performance.png)
+
+## Logistics Performance
+
+![Logistics Performance](images/logistics-performance.png)
+
