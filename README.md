@@ -121,15 +121,20 @@ The dashboard was designed to help answer key supply chain questions, including:
 ```text
 Supply-Chain-Analysis/
 │
+├── data source/
+│   └── supply_chain_data.csv
+│
 ├── images/
 │   ├── home.png
 │   ├── overview.png
 │   ├── Supplier Performance.png
-│   └── Logistics Performance.png
+│   ├── Logistics Performance.png
+│   └── Data Model.png
 │
 ├── Supply Chain Analysis.pbix
 └── README.md
 ```
+
 
 
 
