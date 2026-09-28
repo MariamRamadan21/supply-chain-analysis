@@ -66,7 +66,15 @@ Created DAX measures to calculate and monitor key business metrics, including:
 
 The measures were designed to work dynamically with the report's filters and slicers.
 
----
+
+# 🗂️ Data Model
+
+The project uses a **Galaxy Schema (Fact Constellation)**, where multiple Fact tables share common Dimension tables through defined relationships.
+
+The model is designed to support analysis across different supply chain processes, including procurement, supplier performance, and logistics.
+
+![Data Model](images/data20%modeling.png)
+
 
 # 🎯 Business Objectives
 
