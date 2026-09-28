@@ -73,7 +73,7 @@ The project uses a **Galaxy Schema (Fact Constellation)**, where multiple Fact t
 
 The model is designed to support analysis across different supply chain processes, including procurement, supplier performance, and logistics.
 
-![Data Model](images/data20%modeling.png)
+![Data Model](images/Data%20Model.png)
 
 
 # 🎯 Business Objectives
